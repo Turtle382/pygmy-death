@@ -11,6 +11,7 @@ Summon the king dorephan version of the pygmy death with the following command:
 /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:dorephan }
 ```
 
+![Untitled image](https://github.com/user-attachments/assets/ccfd0b39-8fae-46b0-b242-7c532dc2960e)
 
 
 ---
